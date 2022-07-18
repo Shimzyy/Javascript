@@ -10,3 +10,5 @@ const person = {
   };
 
   document.getElementById("Ex").innerHTML = "vkoepeeb"
+
+  alert("hey babe")
