@@ -1,4 +1,4 @@
-let ex1 = document.getElementById("Ex")
+// let ex1 = document.getElementById("Ex")
 
 const person = {
     firstName: "John",
@@ -9,6 +9,7 @@ const person = {
     }
   };
 
-  document.getElementById("Ex").innerHTML = "vkoepeeb"
-
+  // document.getElementById("Ex").innerHTML = "vkoepeeb"
+console.log("hi")
   alert("hey babe")
+  console.error("this is an error");
