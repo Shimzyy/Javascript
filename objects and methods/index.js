@@ -9,7 +9,7 @@ const person = {
     }
   };
 
-  // document.getElementById("Ex").innerHTML = "vkoepeeb"
+document.getElementById("Ex").textContent = "vkoepeeb"
 console.log("hi")
-  alert("hey babe")
-  console.error("this is an error");
+alert("hey babe")
+console.error("this is an error");
