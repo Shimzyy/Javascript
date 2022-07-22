@@ -5,7 +5,7 @@ const person = {
   lastName: "Doe",
   id: 5566,
   fullName: function() {
-    return `Hi, my name is \"Johnnee\"  ${this.lastName}`;
+    return `Hi, my name is "Johnnee"  ${this.lastName}`;
   }
 };
 
